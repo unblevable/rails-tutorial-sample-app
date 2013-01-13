@@ -11,9 +11,11 @@
 
 development:
     adapter: postgresql
-    host: localhost
-    username: df7vnomfbf7nbl
-    database: njbicxjjqodcvp
+    host: ec2-54-243-224-229.compute-1.amazonaws.com
+    port: 5432
+    database: df7vnomfbf7nbl
+    password: y4BIarYYyqQTS-yAulsSppTihf
+    username: njbicxjjqodcvp
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
