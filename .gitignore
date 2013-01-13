@@ -16,3 +16,6 @@
 
 # Ignore vim sessions
 *.vim
+
+# and .swp
+*.swp
